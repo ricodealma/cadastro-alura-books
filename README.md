@@ -1,2 +1,2 @@
-# cadastro-alura-books
-Tela de cadastro com API JavaScript para autopreenchimento baseado no CEP
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
